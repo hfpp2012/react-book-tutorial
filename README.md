@@ -1,6 +1,6 @@
 # react-book-tutorial 教程
 
-一本 React 的入门书，翻译自 https://github.com/softchris/react-book
+一本写于 2021 年的 React 的入门书，翻译自 https://github.com/softchris/react-book
 
 我的 github：https://github.com/hfpp2012
 
