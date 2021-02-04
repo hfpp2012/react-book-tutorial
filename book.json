@@ -1,0 +1,10 @@
+{
+  "plugins": ["github-buttons"],
+  "pluginsConfig": {
+    "github-buttons": {
+      "repo": "hfpp2012/react-book-tutorial",
+      "types": ["star", "watch"]
+    }
+  }
+}
+
